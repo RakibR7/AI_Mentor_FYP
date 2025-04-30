@@ -11,5 +11,6 @@ https://github.com/RakibR7/AI_Mentor_Backend
 Dataset/Filtering/Extracting/Optimisation/Validation
 https://github.com/RakibR7/AI_Mentor_Database
 
-<img src="https://raw.githubusercontent.com/RakibR7/AI_Mentor_FYP/main/Jira.png" width="600"/>
+![Jira](https://raw.githubusercontent.com/RakibR7/AI_Mentor_FYP/main/images/Jira.png)
+
 
